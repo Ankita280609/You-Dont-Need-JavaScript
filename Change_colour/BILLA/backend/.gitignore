@@ -1,0 +1,9 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore Environment Variables (Secrets)
+.env
+backend/.env
+
+# Ignore Mac system files
+.DS_Store
